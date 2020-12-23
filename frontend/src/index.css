@@ -132,6 +132,10 @@ a.brand{
   flex:2 1 50rem;
 }
 
+.description{
+  margin-top:0.8rem;
+}
+
 img{
   border-radius: 0.5rem;
   margin-right:10px;
@@ -191,4 +195,6 @@ margin-bottom:0.5rem;
 .error{
   color:red;
 }
+
+
 

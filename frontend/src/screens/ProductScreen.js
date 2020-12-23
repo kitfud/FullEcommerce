@@ -25,7 +25,7 @@ if(!product){
     </li>
     <li>Price: ${product.price}</li>
     <li>Description:
-        <p>{product.description}</p>
+        <p className = "description">{product.description}</p>
     </li>
 </ul>
      </div>
