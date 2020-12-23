@@ -192,9 +192,24 @@ margin-bottom:0.5rem;
   color:darkgreen;
 }
 
-.error{
+.danger{
   color:red;
 }
 
+.alert{
+  padding:1rem;
+  border:0.1rem solid transparent;
+  border-radius:0.5rem;
+}
+
+.alert-info{
+  color:purple;
+  background-color: yellow;
+}
+
+.alert-danger{
+  color:darkred;
+  background-color:lightcoral;
+}
 
 
