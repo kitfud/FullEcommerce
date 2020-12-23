@@ -1,7 +1,7 @@
 import React from 'react'
 import Rating from './Rating';
 
-function Products(props) {
+function Product(props) {
     const {product} = props;
 
     return (
@@ -23,7 +23,7 @@ function Products(props) {
     )
 }
 
-export default Products
+export default Product
 
 
 
