@@ -18,7 +18,7 @@ const data = {
     ],
     products:[
         {
-            _id:'1',
+            
             name:'Shiitake Agar Plate',
             category:'Mushroom supplies',
             image:'/images/p1.jpg',
@@ -31,7 +31,7 @@ const data = {
 
         },
         {
-            _id:'2',
+           
             name:'Golden Oyster Agar Plate',
             category:'Mushroom supplies',
             image:'/images/p2.jpg',
@@ -44,7 +44,7 @@ const data = {
 
         },
         {
-            _id:'3',
+            
             name:'Scotch Bonnet Pepper Seeds',
             category:'Garden supplies',
             image:'/images/p3.jpg',
@@ -57,7 +57,7 @@ const data = {
 
         },
         {
-            _id:'4',
+            
             name:'Ghost Pepper Seeds',
             category:'Garden supplies',
             image:'/images/p4.jpg',
@@ -70,7 +70,7 @@ const data = {
 
         },
         {
-            _id:'5',
+            
             name:'Tulsi Basil Seeds',
             category:'Garden supplies',
             image:'/images/p5.jpg',
@@ -83,7 +83,7 @@ const data = {
 
         },
         {
-            _id:'6',
+          
             name:'BRF Grow Cakes',
             category:'Mushroom supplies',
             image:'/images/p6.jpg',
