@@ -150,13 +150,23 @@ a.brand{
   flex:2 1 50rem;
 }
 
+.min-30{
+  min-width: 30rem;
+}
+
 .description{
   margin-top:0.8rem;
 }
 
+/*Image */
 img{
   border-radius: 0.5rem;
   margin-right:10px;
+}
+
+img.small{
+  max-width:5rem;
+  width:100%;
 }
 
 img.medium{
