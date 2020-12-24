@@ -109,12 +109,21 @@ button.block{
   width:100%;
 }
 
+/*HEADER*/
+
 a.brand{
   color:rgb(230, 100, 14);
   font-size:3rem;
   font-weight: bold;
+}
 
-
+.badge{
+  background-color:red;
+  color:white;
+  border-radius:50%;
+  padding:0.2rem 0.7rem;
+  font-size:1.4rem;
+  margin-left:0.2rem;
 }
 
 .row{
