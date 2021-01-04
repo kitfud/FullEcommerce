@@ -28,6 +28,7 @@ dispatch({type: USER_SIGNIN_FAIL, payload:error.response && error.response.data.
 export const signout = () => (dispatch) =>{
     localStorage.removeItem('userInfo');
     localStorage.removeItem('cartItems');
+    localStorage.removeItem('shippingAddress');
     dispatch({type:USER_SIGNOUT});
     
 };
