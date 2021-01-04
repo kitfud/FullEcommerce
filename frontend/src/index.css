@@ -284,3 +284,17 @@ margin-bottom:0.5rem;
 .dropdown:hover .dropdown-content {
   display: block;
 }
+/*Checkout steps*/
+
+.checkout-steps>div{
+  border-top:0.3rem white solid;
+  color: gray;
+  flex: 1;
+  padding:1rem;
+  font-weight: bold;
+}
+
+.checkout-steps> div.active{
+border-top-color: orangered;
+color: orangered;
+}
